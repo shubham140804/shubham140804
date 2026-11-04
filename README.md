@@ -8,15 +8,13 @@
 </p>
 
 ---
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
-* 🎓 B.E. Computer Engineering student at University of Mumbai
-* 💻 Interested in Full-Stack Development, AI & Machine Learning
-* 🔐 Currently working on **Sentinel AI — Phishing Detection & Threat Intelligence**
-* 🚀 I learn by building practical projects and solving real-world problems
-
----
+- 🎓 Final-year B.E. Computer Engineering student at the University of Mumbai.
+- 💻 Interested in Full-Stack Development and Applied AI/ML.
+- 🛡️ Building **Sentinel AI** – an ML-powered email phishing detection platform using BERT and XGBoost.
+- 🚀 Experienced in developing web applications using React.js, Python, FastAPI and Firebase.
+- 📚 Focused on strengthening software engineering and machine learning skills through practical projects.
 
 ### 🛠️ Tech Stack
 
